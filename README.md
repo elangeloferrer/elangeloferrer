@@ -1,4 +1,5 @@
-# It's me, Eloy ツ<b>Full-Stack Software Engineer</b> · Backend-leaning · Based in the Philippines 🇵🇭
+<h3>It's me, Eloy ツ<h3>
+<b>Full-Stack Software Engineer</b> · Backend-leaning · Based in the Philippines 🇵🇭
 - 6+ years as a backend developer
 - 2 years as a frontend developer
 - 2 years as a DevOps engineer
@@ -34,6 +35,7 @@
 - **[Business Monitoring System](https://github.com/elangeloferrer/NERM)** — One place to manage sales, inventory, customers, expenses, suppliers, and reports. Node.js, Express, React, Tailwind, MySQL.
 - **[Weather App](https://github.com/elangeloferrer/weather-app-client)** — Responsive app that shows real-time weather for any city. React, Tailwind, Vite.
 - **[Admin Dashboard Template](https://github.com/elangeloferrer/admin-dashboard-template-2)** — Dynamic sidebar menus, charts, and tables with dark mode and a responsive layout. React, TypeScript, Tailwind, Vite.
+
 
 <a href="https://ime-portfolio-website.vercel.app/"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="32" height="32" alt="Portfolio" /></a>&nbsp;&nbsp;
 <a href="mailto:elangeloferrer@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Email" /></a>
