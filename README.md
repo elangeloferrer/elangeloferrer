@@ -1,15 +1,15 @@
-# El-Angelo Ferrer
+# it's me, El-Angelo Ferrer ツ
 
 Full-Stack Software Engineer based in the Philippines. I build efficient, scalable web applications.
 
-- Portfolio: https://ime-portfolio-website.vercel.app/
+- Portfolio: https://ime-portfolio-website.vercel.app
 - Email: elangeloferrer@gmail.com
 
 ## About Me
 
 - 6+ years as a backend developer
-- 2 years as a frontend developer
 - 2 years as a DevOps engineer in my first job
+- 2 years as a frontend developer
 - I keep up with new trends in development
 - I use AI tools like Claude, along with Obsidian, in my workflow to move faster and solve problems more effectively
 
@@ -17,24 +17,24 @@ Full-Stack Software Engineer based in the Philippines. I build efficient, scalab
 
 **Backend**
 
-[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)](https://laravel.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
+<a href="https://www.php.net/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" /></a>&nbsp;
+<a href="https://laravel.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel" /></a>&nbsp;
+<a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" /></a>&nbsp;
+<a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" /></a>
 
 **Frontend**
 
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)](https://vuejs.org/)
-[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://react.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)](https://jquery.com/)
+<a href="https://vuejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js" /></a>&nbsp;
+<a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" /></a>&nbsp;
+<a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" /></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /></a>&nbsp;
+<a href="https://jquery.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" height="40" alt="jQuery" /></a>
 
 **DevOps**
 
-[![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
+<a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" /></a>&nbsp;
+<a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /></a>&nbsp;
+<a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" /></a>
 
 ## Projects
 
@@ -42,3 +42,8 @@ Full-Stack Software Engineer based in the Philippines. I build efficient, scalab
 - **[Business Monitoring System](https://github.com/elangeloferrer/NERM)** — One place to manage sales, inventory, customers, expenses, suppliers, and reports. Node.js, Express, React, Tailwind, MySQL.
 - **[Weather App](https://github.com/elangeloferrer/weather-app-client)** — Responsive app that shows real-time weather for any city. React, Tailwind, Vite.
 - **[Admin Dashboard Template](https://github.com/elangeloferrer/admin-dashboard-template-2)** — Dynamic sidebar menus, charts, and tables with dark mode and a responsive layout. React, TypeScript, Tailwind, Vite.
+
+## GitHub Stats
+
+![El-Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=elangeloferrer&show_icons=true&hide_border=true)
+![GitHub streak](https://streak-stats.demolab.com?user=elangeloferrer&hide_border=true)
