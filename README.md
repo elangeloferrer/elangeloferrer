@@ -1,4 +1,4 @@
-<h3>It's me, Eloy ツ</h3>
+<h2>It's me, Eloy ツ</h2>
 <b>Full-Stack Software Engineer</b> · Backend-leaning · Based in the Philippines 🇵🇭
 
 - 6+ years as a backend developer
