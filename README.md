@@ -1,4 +1,4 @@
-<b>It's me, Eloy ツ</b>
+<h2>It's me, Eloy ツ</h2>
 
 <b>Full-Stack Software Engineer</b> · Backend-leaning · Based in the Philippines 🇵🇭
 - 6+ years as a backend developer
@@ -37,5 +37,6 @@
 - **[Weather App](https://github.com/elangeloferrer/weather-app-client)** — Responsive app that shows real-time weather for any city. React, Tailwind, Vite.
 - **[Admin Dashboard Template](https://github.com/elangeloferrer/admin-dashboard-template-2)** — Dynamic sidebar menus, charts, and tables with dark mode and a responsive layout. React, TypeScript, Tailwind, Vite.
 
+<br><br>
 - 🖥️ Feel free to see my portfolio at [elangeloferrer](https://ime-portfolio-website.vercel.app)
 - ✉️ You can contact me at [elangeloferrer@gmail.com](mailto:elangeloferrer@gmail.com)
