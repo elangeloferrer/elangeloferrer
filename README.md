@@ -1,15 +1,15 @@
-# it's me, El-Angelo Ferrer ツ
+# It's me, Eloy ツ
 
-Full-Stack Software Engineer based in the Philippines. I build efficient, scalable web applications.
+<b>Full-Stack Software Engineer</b> · Backend-leaning · Based in the Philippines 🇵🇭
 
-- Portfolio: https://ime-portfolio-website.vercel.app
-- Email: elangeloferrer@gmail.com
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://ime-portfolio-website.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:elangeloferrer@gmail.com)
 
 ## About Me
 
 - 6+ years as a backend developer
-- 2 years as a DevOps engineer in my first job
 - 2 years as a frontend developer
+- 2 years as a DevOps engineer
 - I keep up with new trends in development
 - I use AI tools like Claude, along with Obsidian, in my workflow to move faster and solve problems more effectively
 
