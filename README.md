@@ -1,9 +1,8 @@
 # It's me, Eloy ツ
-
 <b>Full-Stack Software Engineer</b> · Backend-leaning · Based in the Philippines 🇵🇭
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://ime-portfolio-website.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:elangeloferrer@gmail.com)
+<a href="https://ime-portfolio-website.vercel.app/"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="32" height="32" alt="Portfolio" /></a>&nbsp;&nbsp;
+<a href="mailto:elangeloferrer@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Email" /></a>
 
 ## About Me
 
@@ -44,6 +43,5 @@
 - **[Admin Dashboard Template](https://github.com/elangeloferrer/admin-dashboard-template-2)** — Dynamic sidebar menus, charts, and tables with dark mode and a responsive layout. React, TypeScript, Tailwind, Vite.
 
 ## GitHub Stats
-
-![El-Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=elangeloferrer&show_icons=true&hide_border=true)
-![GitHub streak](https://streak-stats.demolab.com?user=elangeloferrer&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=elangeloferrer&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elangeloferrer&layout=compact&theme=default&hide_border=true&langs_count=8" />
