@@ -37,6 +37,5 @@
 - **[Weather App](https://github.com/elangeloferrer/weather-app-client)** — Responsive app that shows real-time weather for any city. React, Tailwind, Vite.
 - **[Admin Dashboard Template](https://github.com/elangeloferrer/admin-dashboard-template-2)** — Dynamic sidebar menus, charts, and tables with dark mode and a responsive layout. React, TypeScript, Tailwind, Vite.
 
-
-<a href="https://ime-portfolio-website.vercel.app/"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="32" height="32" alt="Portfolio" /></a>&nbsp;&nbsp;
-<a href="mailto:elangeloferrer@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Email" /></a>
+- 🖥️ Feel free to see my portfolio at [elangeloferrer](https://ime-portfolio-website.vercel.app)
+- ✉️ You can contact me at [elangeloferrer@gmail.com](mailto:elangeloferrer@gmail.com)
