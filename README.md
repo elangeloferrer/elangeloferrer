@@ -1,11 +1,5 @@
 # It's me, Eloy ツ
 <b>Full-Stack Software Engineer</b> · Backend-leaning · Based in the Philippines 🇵🇭
-
-<a href="https://ime-portfolio-website.vercel.app/"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="32" height="32" alt="Portfolio" /></a>&nbsp;&nbsp;
-<a href="mailto:elangeloferrer@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Email" /></a>
-
-## About Me
-
 - 6+ years as a backend developer
 - 2 years as a frontend developer
 - 2 years as a DevOps engineer
@@ -45,3 +39,6 @@
 ## GitHub Stats
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=elangeloferrer&show_icons=true&theme=default&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elangeloferrer&layout=compact&theme=default&hide_border=true&langs_count=8" />
+
+<a href="https://ime-portfolio-website.vercel.app/"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="32" height="32" alt="Portfolio" /></a>&nbsp;&nbsp;
+<a href="mailto:elangeloferrer@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Email" /></a>
