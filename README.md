@@ -1,5 +1,4 @@
-# It's me, Eloy ツ
-<b>Full-Stack Software Engineer</b> · Backend-leaning · Based in the Philippines 🇵🇭
+# It's me, Eloy ツ<b>Full-Stack Software Engineer</b> · Backend-leaning · Based in the Philippines 🇵🇭
 - 6+ years as a backend developer
 - 2 years as a frontend developer
 - 2 years as a DevOps engineer
